@@ -61,5 +61,5 @@
 }
 .active{
     font-weight: bold;
-    color: rgb(71, 71, 150) !important;
+    color: rgb(71, 71, 150) !important;<-- ha nem szinezi át EZ!!!!!!
 }
